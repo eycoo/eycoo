@@ -1,33 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ahmad Naufal Farras</h1>
-<h3 align="center">Artificial Intelligence Engineering undergraduate</h3>
+<div align="center">
+  
+# 👋 Hello, I'm Ahmad Naufal Farras
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eycoo&label=Profile%20views&color=0e75b6&style=flat" alt="eycoo" /> </p>
+### 🤖 AI Engineering Undergraduate | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on [TB Cough Detection in public areas](https://github.com/orgs/TB-Project-0-3/repositories)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Solutions+for+Real+World+Problems;Deep+Learning+%7C+Computer+Vision+%7C+Audio+Processing;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Pytorch, Tensorflow**
-
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1uTlRClv_UBBMp34vq9Yn7xlun9DInZVo?usp=sharing](https://drive.google.com/drive/folders/1uTlRClv_UBBMp34vq9Yn7xlun9DInZVo?usp=sharing)
-
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me **ahmadnaufalfarras5@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jwRJDQy4tu49d-u71KbHbS2QllZVPz_c/view?usp=sharing](https://drive.google.com/file/d/1jwRJDQy4tu49d-u71KbHbS2QllZVPz_c/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/ahmfras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmfras" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmfras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmfras" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eycoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eycoo" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=eycoo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="eycoo" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eycoo&show_icons=true&locale=en&layout=compact" alt="eycoo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eycoo&show_icons=true&locale=en" alt="eycoo" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eycoo&" alt="eycoo" /></p>
+```python
+class AhmadNaufalFarras:
+    def __init__(self):
+        self.username = "eycoo"
+        self.role = "AI Engineering Student"
+        self.location = "Indonesia 🇮🇩"
+        self.current_focus = ["PyTorch", "TensorFlow", "Deep Learning"]
+        self.interests = ["Machine Learning", "Computer Vision", "Audio AI"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
+me = AhmadNaufalFarras()
+me.say_hi()
+```
+
+---
+
+## 💼 Current Project
+
+<div align="center">
+
+### 🔬 [TB Cough Detection in Public Areas](https://github.com/orgs/TB-Project-0-3/repositories)
+
+*Leveraging AI to detect tuberculosis through cough sound analysis*
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eycoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eycoo&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eycoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=eycoo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadnaufalfarras5@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ahmfras)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/eycoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmfras)
+
+### 📂 [View My Portfolio](https://drive.google.com/drive/folders/1uTlRClv_UBBMp34vq9Yn7xlun9DInZVo?usp=sharing) | 📄 [Download Resume](https://drive.google.com/file/d/1jwRJDQy4tu49d-u71KbHbS2QllZVPz_c/view?usp=sharing)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Fun Fact
+
+*"The best error message is the one that never shows up." - Thomas Fuchs*
+
+---
+
+⭐️ From [eycoo](https://github.com/eycoo) with 💙
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
